@@ -1,0 +1,1010 @@
+[
+  {
+    "Id_produk": "P001",
+    "Id_user": "U101",
+    "Nama_produk": "Minyak Zaitun Extra Virgin",
+    "Nama_umkm": "Olive Harvest",
+    "Kategori_produk": "Makanan",
+    "Harga": 75000,
+    "Bahan_baku": "Zaitun"
+  },
+  {
+    "Id_produk": "P002",
+    "Id_user": "U202",
+    "Nama_produk": "Kemeja Batik Premium",
+    "Nama_umkm": "Batik Elegance",
+    "Kategori_produk": "Fashion",
+    "Harga": 300000,
+    "Bahan_baku": "Katun, Lilin Malam"
+  },
+  {
+    "Id_produk": "P003",
+    "Id_user": "U303",
+    "Nama_produk": "Sabun Organik Lavender",
+    "Nama_umkm": "Nature Bliss",
+    "Kategori_produk": "Kesehatan",
+    "Harga": 45000,
+    "Bahan_baku": "Minyak Kelapa, Lavender, Garam Himalaya"
+  },
+  {
+    "Id_produk": "P004",
+    "Id_user": "U404",
+    "Nama_produk": "Meja Kerja Kayu Jati",
+    "Nama_umkm": "Jati Furniture",
+    "Kategori_produk": "Furniture",
+    "Harga": 1200000,
+    "Bahan_baku": "Kayu Jati"
+  },
+  {
+    "Id_produk": "P005",
+    "Id_user": "U505",
+    "Nama_produk": "Sandal Rajut Tenun",
+    "Nama_umkm": "Rajut Craft",
+    "Kategori_produk": "Fashion",
+    "Harga": 85000,
+    "Bahan_baku": "Benang Rajut, Kulit Sintetis"
+  },
+  {
+    "Id_produk": "P006",
+    "Id_user": "U606",
+    "Nama_produk": "Lemari Es Hemat Energi",
+    "Nama_umkm": "EcoCool Appliances",
+    "Kategori_produk": "Elektronik",
+    "Harga": 1800000,
+    "Bahan_baku": "Plastik Recycle, Komponen Elektronik"
+  },
+  {
+    "Id_produk": "P007",
+    "Id_user": "U707",
+    "Nama_produk": "Teh Herbal Detox",
+    "Nama_umkm": "Herbalife",
+    "Kategori_produk": "Minuman",
+    "Harga": 55000,
+    "Bahan_baku": "Daun Teh Hijau, Jahe, Lemon"
+  },
+  {
+    "Id_produk": "P008",
+    "Id_user": "U808",
+    "Nama_produk": "Topi Trucker Bordir Kustom",
+    "Nama_umkm": "Embroidery Creations",
+    "Kategori_produk": "Fashion",
+    "Harga": 90000,
+    "Bahan_baku": "Kain Katun, Busa"
+  },
+  {
+    "Id_produk": "P009",
+    "Id_user": "U909",
+    "Nama_produk": "Lampu Gantung Vintage",
+    "Nama_umkm": "Retro Lighting",
+    "Kategori_produk": "Dekorasi",
+    "Harga": 250000,
+    "Bahan_baku": "Besi, Kaca"
+  },
+  {
+    "Id_produk": "P010",
+    "Id_user": "U010",
+    "Nama_produk": "Kacang Mete Karamel",
+    "Nama_umkm": "Mete Mania",
+    "Kategori_produk": "Makanan",
+    "Harga": 65000,
+    "Bahan_baku": "Kacang Mete, Gula, Mentega"
+  },
+  {
+    "Id_produk": "P011",
+    "Id_user": "U111",
+    "Nama_produk": "Serum Wajah Anti-Penuaan",
+    "Nama_umkm": "Youthful Glow",
+    "Kategori_produk": "Kecantikan",
+    "Harga": 175000,
+    "Bahan_baku": "Vitamin C, Asam Hialuronat, Ekstrak Teh Hijau"
+  },
+  {
+    "Id_produk": "P012",
+    "Id_user": "U222",
+    "Nama_produk": "Boneka Rajut Lucu",
+    "Nama_umkm": "Knit Delights",
+    "Kategori_produk": "Mainan",
+    "Harga": 65000,
+    "Bahan_baku": "Benang Rajut, Kapas"
+  },
+  {
+    "Id_produk": "P013",
+    "Id_user": "U333",
+    "Nama_produk": "Obat Herbal Sakit Kepala",
+    "Nama_umkm": "Herbal Relief",
+    "Kategori_produk": "Kesehatan",
+    "Harga": 30000,
+    "Bahan_baku": "Tanaman Feverfew, Akar Willow White"
+  },
+  {
+    "Id_produk": "P014",
+    "Id_user": "U444",
+    "Nama_produk": "Kursi Lipat Outdoor",
+    "Nama_umkm": "Outdoor Comfort",
+    "Kategori_produk": "Furniture",
+    "Harga": 95000,
+    "Bahan_baku": "Aluminium, Kain Oxford"
+  },
+  {
+    "Id_produk": "P015",
+    "Id_user": "U555",
+    "Nama_produk": "Cincin Perak Etnik",
+    "Nama_umkm": "SilverCraft",
+    "Kategori_produk": "Perhiasan",
+    "Harga": 120000,
+    "Bahan_baku": "Perak 925"
+  },
+  {
+    "Id_produk": "P016",
+    "Id_user": "U666",
+    "Nama_produk": "Pembersih Lantai Ramah Lingkungan",
+    "Nama_umkm": "GreenClean",
+    "Kategori_produk": "Perawatan Rumah",
+    "Harga": 55000,
+    "Bahan_baku": "Ekstrak Jeruk, Cuka Sari Apel, Air"
+  },
+  {
+    "Id_produk": "P017",
+    "Id_user": "U777",
+    "Nama_produk": "Kopi Arabika Single Origin",
+    "Nama_umkm": "Coffee Haven",
+    "Kategori_produk": "Minuman",
+    "Harga": 85000,
+    "Bahan_baku": "Kopi Arabika"
+  },
+  {
+    "Id_produk": "P018",
+    "Id_user": "U888",
+    "Nama_produk": "Tas Selempang Kulit Vintage",
+    "Nama_umkm": "LeatherCraft",
+    "Kategori_produk": "Fashion",
+    "Harga": 280000,
+    "Bahan_baku": "Kulit Asli, Tali Rami"
+  },
+  {
+    "Id_produk": "P019",
+    "Id_user": "U999",
+    "Nama_produk": "Lampu Meja Desain Modern",
+    "Nama_umkm": "Modern Lights",
+    "Kategori_produk": "Dekorasi",
+    "Harga": 180000,
+    "Bahan_baku": "Logam, Kaca"
+  },
+  {
+    "Id_produk": "P020",
+    "Id_user": "U010",
+    "Nama_produk": "Granola Rasa Buah-buahan",
+    "Nama_umkm": "Granola Delight",
+    "Kategori_produk": "Makanan",
+    "Harga": 75000,
+    "Bahan_baku": "Oat, Madu, Buah Kering"
+  },
+  {
+    "Id_produk": "P021",
+    "Id_user": "U121",
+    "Nama_produk": "Laptop Gaming High-End",
+    "Nama_umkm": "TechElite",
+    "Kategori_produk": "Elektronik",
+    "Harga": 12000000,
+    "Bahan_baku": "Aluminium, Silikon, Komponen Elektronik"
+  },
+  {
+    "Id_produk": "P022",
+    "Id_user": "U232",
+    "Nama_produk": "Baju Renang Anak Lucu",
+    "Nama_umkm": "Splashy Kids",
+    "Kategori_produk": "Fashion",
+    "Harga": 75000,
+    "Bahan_baku": "Nilon, Spandex"
+  },
+  {
+    "Id_produk": "P023",
+    "Id_user": "U343",
+    "Nama_produk": "Suplemen Fitnes Whey Protein",
+    "Nama_umkm": "FitNutri",
+    "Kategori_produk": "Kesehatan",
+    "Harga": 180000,
+    "Bahan_baku": "Protein Whey, Ekstrak Vanilla"
+  },
+  {
+    "Id_produk": "P024",
+    "Id_user": "U454",
+    "Nama_produk": "Sofa L-Shaped Modern",
+    "Nama_umkm": "Modern Living",
+    "Kategori_produk": "Furniture",
+    "Harga": 2500000,
+    "Bahan_baku": "Kain Suede, Busa, Kayu"
+  },
+  {
+    "Id_produk": "P025",
+    "Id_user": "U565",
+    "Nama_produk": "Anting Emas Berlian",
+    "Nama_umkm": "GoldGlam Jewelry",
+    "Kategori_produk": "Perhiasan",
+    "Harga": 450000,
+    "Bahan_baku": "Emas 24 Karat, Berlian"
+  },
+  {
+    "Id_produk": "P026",
+    "Id_user": "U676",
+    "Nama_produk": "Pena Mewah Limited Edition",
+    "Nama_umkm": "Luxury Pens",
+    "Kategori_produk": "Alat Tulis",
+    "Harga": 350000,
+    "Bahan_baku": "Besi, Emas, Nilon"
+  },
+  {
+    "Id_produk": "P027",
+    "Id_user": "U787",
+    "Nama_produk": "Smoothie Detox Alpukat",
+    "Nama_umkm": "Avocado Bliss",
+    "Kategori_produk": "Minuman",
+    "Harga": 60000,
+    "Bahan_baku": "Alpukat, Susu Kedelai, Madu"
+  },
+  {
+    "Id_produk": "P028",
+    "Id_user": "U898",
+    "Nama_produk": "Topi Beanie Rajut",
+    "Nama_umkm": "Cozy Knits",
+    "Kategori_produk": "Fashion",
+    "Harga": 75000,
+    "Bahan_baku": "Benang Rajut, Katun"
+  },
+  {
+    "Id_produk": "P029",
+    "Id_user": "U909",
+    "Nama_produk": "Vas Tanah Liat Klasik",
+    "Nama_umkm": "Earthy Pottery",
+    "Kategori_produk": "Dekorasi",
+    "Harga": 120000,
+    "Bahan_baku": "Tanah Liat"
+  },
+  {
+    "Id_produk": "P030",
+    "Id_user": "U010",
+    "Nama_produk": "Selai Blueberry Organik",
+    "Nama_umkm": "Berry Goodness",
+    "Kategori_produk": "Makanan",
+    "Harga": 55000,
+    "Bahan_baku": "Blueberry, Gula, Air Lemon"
+  },
+  {
+    "Id_produk": "P031",
+    "Id_user": "U121",
+    "Nama_produk": "Cangkir Kopi Arabika Premium",
+    "Nama_umkm": "Arabian Brew",
+    "Kategori_produk": "Minuman",
+    "Harga": 120000,
+    "Bahan_baku": "Kopi Arabika, Porselen"
+  },
+  {
+    "Id_produk": "P032",
+    "Id_user": "U232",
+    "Nama_produk": "Sari Buah Mangga Segar",
+    "Nama_umkm": "Mango Delight",
+    "Kategori_produk": "Minuman",
+    "Harga": 45000,
+    "Bahan_baku": "Mangga, Air, Gula"
+  },
+  {
+    "Id_produk": "P033",
+    "Id_user": "U343",
+    "Nama_produk": "Infused Water Jeruk Nipis Mint",
+    "Nama_umkm": "Citrus Fresh",
+    "Kategori_produk": "Minuman",
+    "Harga": 30000,
+    "Bahan_baku": "Jeruk Nipis, Mint, Air"
+  },
+  {
+    "Id_produk": "P034",
+    "Id_user": "U454",
+    "Nama_produk": "Es Teh Tawar Jasmine",
+    "Nama_umkm": "Jasmine Bliss",
+    "Kategori_produk": "Minuman",
+    "Harga": 15000,
+    "Bahan_baku": "Daun Teh Jasmine, Air, Gula"
+  },
+  {
+    "Id_produk": "P035",
+    "Id_user": "U565",
+    "Nama_produk": "Smoothie Beri Acai",
+    "Nama_umkm": "Acai Heaven",
+    "Kategori_produk": "Minuman",
+    "Harga": 65000,
+    "Bahan_baku": "Buah Acai, Pisang, Susu Kedelai"
+  },
+  {
+    "Id_produk": "P036",
+    "Id_user": "U676",
+    "Nama_produk": "Jus Apel Organik",
+    "Nama_umkm": "Apple Harvest",
+    "Kategori_produk": "Minuman",
+    "Harga": 35000,
+    "Bahan_baku": "Apel, Air, Gula"
+  },
+  {
+    "Id_produk": "P037",
+    "Id_user": "U787",
+    "Nama_produk": "Lemonade Segar",
+    "Nama_umkm": "Zesty Lemon",
+    "Kategori_produk": "Minuman",
+    "Harga": 20000,
+    "Bahan_baku": "Lemon, Air, Gula"
+  },
+  {
+    "Id_produk": "P038",
+    "Id_user": "U898",
+    "Nama_produk": "Latte Vanila Hangat",
+    "Nama_umkm": "Vanilla Latte Haven",
+    "Kategori_produk": "Minuman",
+    "Harga": 55000,
+    "Bahan_baku": "Kopi, Susu, Vanilla"
+  },
+  {
+    "Id_produk": "P039",
+    "Id_user": "U909",
+    "Nama_produk": "Kombucha Raspberry",
+    "Nama_umkm": "Raspberry Boost",
+    "Kategori_produk": "Minuman",
+    "Harga": 80000,
+    "Bahan_baku": "Raspberry, Teh Kombucha, Gula"
+  },
+  {
+    "Id_produk": "P040",
+    "Id_user": "U010",
+    "Nama_produk": "Smoothie Protein Shake",
+    "Nama_umkm": "Protein Power",
+    "Kategori_produk": "Minuman",
+    "Harga": 95000,
+    "Bahan_baku": "Protein Whey, Pisang, Susu Kedelai"
+  },
+  {
+    "Id_produk": "P041",
+    "Id_user": "U121",
+    "Nama_produk": "Sprei Katun Premium",
+    "Nama_umkm": "Dreamy Linens",
+    "Kategori_produk": "Perlengkapan Rumah",
+    "Harga": 180000,
+    "Bahan_baku": "Katun"
+  },
+  {
+    "Id_produk": "P042",
+    "Id_user": "U232",
+    "Nama_produk": "Lampu Dinding Vintage",
+    "Nama_umkm": "Retro Lighting",
+    "Kategori_produk": "Dekorasi",
+    "Harga": 120000,
+    "Bahan_baku": "Besi, Kaca"
+  },
+  {
+    "Id_produk": "P043",
+    "Id_user": "U343",
+    "Nama_produk": "Sabun Organik Lavender",
+    "Nama_umkm": "Nature Bliss",
+    "Kategori_produk": "Kesehatan",
+    "Harga": 45000,
+    "Bahan_baku": "Minyak Kelapa, Lavender, Garam Himalaya"
+  },
+  {
+    "Id_produk": "P044",
+    "Id_user": "U454",
+    "Nama_produk": "Sepatu Sneakers Casual",
+    "Nama_umkm": "Urban Kicks",
+    "Kategori_produk": "Fashion",
+    "Harga": 280000,
+    "Bahan_baku": "Kain, Karet, Kulit Sintetis"
+  },
+  {
+    "Id_produk": "P045",
+    "Id_user": "U565",
+    "Nama_produk": "Makanan Anjing Organik",
+    "Nama_umkm": "Pet Delights",
+    "Kategori_produk": "Hewan Peliharaan",
+    "Harga": 35000,
+    "Bahan_baku": "Daging Ayam, Beras, Sayuran"
+  },
+  {
+    "Id_produk": "P046",
+    "Id_user": "U676",
+    "Nama_produk": "Obeng Set 12-Pcs",
+    "Nama_umkm": "ToolMaster",
+    "Kategori_produk": "Alat Bantu",
+    "Harga": 95000,
+    "Bahan_baku": "Besi, Plastik"
+  },
+  {
+    "Id_produk": "P047",
+    "Id_user": "U787",
+    "Nama_produk": "Masker Kain Fashion",
+    "Nama_umkm": "Chic Masks",
+    "Kategori_produk": "Fashion",
+    "Harga": 20000,
+    "Bahan_baku": "Katun, Karet"
+  },
+  {
+    "Id_produk": "P048",
+    "Id_user": "U898",
+    "Nama_produk": "Gantungan Kunci Unik",
+    "Nama_umkm": "KeyCrafters",
+    "Kategori_produk": "Aksesori",
+    "Harga": 15000,
+    "Bahan_baku": "Logam, Kulit, Karet"
+  },
+  {
+    "Id_produk": "P049",
+    "Id_user": "U909",
+    "Nama_produk": "Teh Herbal Detox",
+    "Nama_umkm": "Herbalife",
+    "Kategori_produk": "Minuman",
+    "Harga": 55000,
+    "Bahan_baku": "Daun Teh Hijau, Jahe, Lemon"
+  },
+  {
+    "Id_produk": "P050",
+    "Id_user": "U010",
+    "Nama_produk": "Organizer Meja Kantor",
+    "Nama_umkm": "Desk Harmony",
+    "Kategori_produk": "Perlengkapan Kantor",
+    "Harga": 75000,
+    "Bahan_baku": "Plastik, Kertas Karton"
+  },
+  {
+    "Id_produk": "P051",
+    "Id_user": "U100",
+    "Nama_produk": "Bantal Sofa Motif Etnik",
+    "Nama_umkm": "Ethnic Home",
+    "Kategori_produk": "Dekorasi",
+    "Harga": 85000,
+    "Bahan_baku": "Katun, Dakron"
+  },
+  {
+    "Id_produk": "P052",
+    "Id_user": "U101",
+    "Nama_produk": "Gel Pembersih Tangan Pocket",
+    "Nama_umkm": "Hygiene Pocket",
+    "Kategori_produk": "Kesehatan",
+    "Harga": 15000,
+    "Bahan_baku": "Alkohol, Gel Aloe Vera"
+  },
+  {
+    "Id_produk": "P053",
+    "Id_user": "U102",
+    "Nama_produk": "Serum Rambut Argan Oil",
+    "Nama_umkm": "Hair Luxe",
+    "Kategori_produk": "Kecantikan",
+    "Harga": 120000,
+    "Bahan_baku": "Minyak Argan, Vitamin E"
+  },
+  {
+    "Id_produk": "P055",
+    "Id_user": "U103",
+    "Nama_produk": "Cat Kuku Neon",
+    "Nama_umkm": "Nail Glow",
+    "Kategori_produk": "Kecantikan",
+    "Harga": 25000,
+    "Bahan_baku": "Pigmen Neon, Lak Ban"
+  },
+  {
+    "Id_produk": "P056",
+    "Id_user": "U103",
+    "Nama_produk": "Speaker Bluetooth Portable",
+    "Nama_umkm": "Audio Bliss",
+    "Kategori_produk": "Elektronik",
+    "Harga": 180000,
+    "Bahan_baku": "Plastik, Komponen Elektronik"
+  },
+  {
+    "Id_produk": "P057",
+    "Id_user": "U104",
+    "Nama_produk": "Yogurt Probiotik",
+    "Nama_umkm": "Probiotic Yums",
+    "Kategori_produk": "Makanan",
+    "Harga": 30000,
+    "Bahan_baku": "Susu, Bakteri Probiotik"
+  },
+  {
+    "Id_produk": "P058",
+    "Id_user": "U105",
+    "Nama_produk": "Kalung Berlian Eksklusif",
+    "Nama_umkm": "Diamond Elegance",
+    "Kategori_produk": "Perhiasan",
+    "Harga": 950000,
+    "Bahan_baku": "Emas Putih, Berlian"
+  },
+  {
+    "Id_produk": "P059",
+    "Id_user": "U106",
+    "Nama_produk": "Topeng Kain Fashion",
+    "Nama_umkm": "Mask Couture",
+    "Kategori_produk": "Fashion",
+    "Harga": 30000,
+    "Bahan_baku": "Katun, Karet"
+  },
+  {
+    "Id_produk": "P060",
+    "Id_user": "U010",
+    "Nama_produk": "Kue Kering Choco Chip",
+    "Nama_umkm": "ChocoJoy Bakes",
+    "Kategori_produk": "Makanan",
+    "Harga": 55000,
+    "Bahan_baku": "Tepung, Cokelat Chip, Mentega"
+  },
+  {
+    "Id_produk": "P061",
+    "Id_user": "U121",
+    "Nama_produk": "Gantungan Kunci Lucu",
+    "Nama_umkm": "KeyCute",
+    "Kategori_produk": "Aksesori",
+    "Harga": 12000,
+    "Bahan_baku": "Plastik, Logam"
+  },
+  {
+    "Id_produk": "P062",
+    "Id_user": "U232",
+    "Nama_produk": "Laptop Stand Ergonomis",
+    "Nama_umkm": "ErgoTech",
+    "Kategori_produk": "Elektronik",
+    "Harga": 85000,
+    "Bahan_baku": "Aluminium, Plastik"
+  },
+  {
+    "Id_produk": "P063",
+    "Id_user": "U343",
+    "Nama_produk": "Tas Tidur Musim Dingin",
+    "Nama_umkm": "CozyDreams",
+    "Kategori_produk": "Perlengkapan Rumah",
+    "Harga": 150000,
+    "Bahan_baku": "Katun, Bulu Sintetis"
+  },
+  {
+    "Id_produk": "P064",
+    "Id_user": "U454",
+    "Nama_produk": "Topi Baseball Bordir",
+    "Nama_umkm": "Embroidery Haven",
+    "Kategori_produk": "Fashion",
+    "Harga": 45000,
+    "Bahan_baku": "Kain Katun, Benang"
+  },
+  {
+    "Id_produk": "P065",
+    "Id_user": "U565",
+    "Nama_produk": "Minyak Aromaterapi Lavender",
+    "Nama_umkm": "Lavender Essence",
+    "Kategori_produk": "Kesehatan",
+    "Harga": 65000,
+    "Bahan_baku": "Minyak Lavender, Alkohol"
+  },
+  {
+    "Id_produk": "P066",
+    "Id_user": "U676",
+    "Nama_produk": "Sikat Gigi Bamboo",
+    "Nama_umkm": "EcoDental",
+    "Kategori_produk": "Kesehatan",
+    "Harga": 25000,
+    "Bahan_baku": "Bambu, Nylon"
+  },
+  {
+    "Id_produk": "P067",
+    "Id_user": "U787",
+    "Nama_produk": "Lampu Hias Bohemian",
+    "Nama_umkm": "BohoLights",
+    "Kategori_produk": "Dekorasi",
+    "Harga": 120000,
+    "Bahan_baku": "Kain, Kawat, Bohemian Beads"
+  },
+  {
+    "Id_produk": "P068",
+    "Id_user": "U898",
+    "Nama_produk": "Kacamata Retro Cat-Eye",
+    "Nama_umkm": "Vintage Eyewear",
+    "Kategori_produk": "Fashion",
+    "Harga": 95000,
+    "Bahan_baku": "Plastik, Kaca"
+  },
+  {
+    "Id_produk": "P069",
+    "Id_user": "U909",
+    "Nama_produk": "Kopi Cold Brew",
+    "Nama_umkm": "Cold Brew Delight",
+    "Kategori_produk": "Minuman",
+    "Harga": 55000,
+    "Bahan_baku": "Kopi, Air"
+  },
+  {
+    "Id_produk": "P070",
+    "Id_user": "U010",
+    "Nama_produk": "Tempat Pensil Keramik",
+    "Nama_umkm": "CeramicCraft",
+    "Kategori_produk": "Perlengkapan Kantor",
+    "Harga": 30000,
+    "Bahan_baku": "Tanah Liat, Glazur"
+  },
+  {
+    "Id_produk": "P071",
+    "Id_user": "U111",
+    "Nama_produk": "Tas Ransel Anti-Maling",
+    "Nama_umkm": "SafeCarry",
+    "Kategori_produk": "Fashion",
+    "Harga": 180000,
+    "Bahan_baku": "Nilon Anti-Maling, Logam"
+  },
+  {
+    "Id_produk": "P072",
+    "Id_user": "U222",
+    "Nama_produk": "Puzzle Kayu Anak",
+    "Nama_umkm": "Wooden Wonders",
+    "Kategori_produk": "Mainan",
+    "Harga": 55000,
+    "Bahan_baku": "Kayu, Cat Aman untuk Anak"
+  },
+  {
+    "Id_produk": "P073",
+    "Id_user": "U333",
+    "Nama_produk": "Masker Rambut Argan",
+    "Nama_umkm": "Hair Revive",
+    "Kategori_produk": "Kecantikan",
+    "Harga": 75000,
+    "Bahan_baku": "Minyak Argan, Ekstrak Lidah Buaya"
+  },
+  {
+    "Id_produk": "P074",
+    "Id_user": "U454",
+    "Nama_produk": "Baju Koko Batik",
+    "Nama_umkm": "Batik Harmony",
+    "Kategori_produk": "Fashion",
+    "Harga": 120000,
+    "Bahan_baku": "Katun, Batik"
+  },
+  {
+    "Id_produk": "P075",
+    "Id_user": "U565",
+    "Nama_produk": "Shampoo Organik",
+    "Nama_umkm": "PureCare",
+    "Kategori_produk": "Kesehatan",
+    "Harga": 35000,
+    "Bahan_baku": "Minyak Kelapa, Ekstrak Lidah Buaya"
+  },
+  {
+    "Id_produk": "P076",
+    "Id_user": "U676",
+    "Nama_produk": "Buku Sketsa Seni",
+    "Nama_umkm": "ArtCanvas",
+    "Kategori_produk": "Seni",
+    "Harga": 95000,
+    "Bahan_baku": "Kertas, Kulit"
+  },
+  {
+    "Id_produk": "P077",
+    "Id_user": "U787",
+    "Nama_produk": "Bantal Massage Elektrik",
+    "Nama_umkm": "Massage Haven",
+    "Kategori_produk": "Elektronik",
+    "Harga": 280000,
+    "Bahan_baku": "Katun, Komponen Elektronik"
+  },
+  {
+    "Id_produk": "P078",
+    "Id_user": "U898",
+    "Nama_produk": "Kalung Anak Kartun",
+    "Nama_umkm": "Kid's Charms",
+    "Kategori_produk": "Fashion",
+    "Harga": 30000,
+    "Bahan_baku": "Plastik, Rantai Logam"
+  },
+  {
+    "Id_produk": "P079",
+    "Id_user": "U909",
+    "Nama_produk": "Jus Sehat Detox",
+    "Nama_umkm": "DetoxJuice",
+    "Kategori_produk": "Minuman",
+    "Harga": 45000,
+    "Bahan_baku": "Wortel, Apel, Lemon"
+  },
+  {
+    "Id_produk": "P080",
+    "Id_user": "U010",
+    "Nama_produk": "Gantungan Kunci Kulit",
+    "Nama_umkm": "LeatherKey",
+    "Kategori_produk": "Aksesori",
+    "Harga": 15000,
+    "Bahan_baku": "Kulit Asli, Logam"
+  },
+  {
+    "Id_produk": "P081",
+    "Id_user": "U111",
+    "Nama_produk": "Lampu Gantung Industrial",
+    "Nama_umkm": "Industrial Lights",
+    "Kategori_produk": "Dekorasi",
+    "Harga": 180000,
+    "Bahan_baku": "Besi, Kaca"
+  },
+  {
+    "Id_produk": "P082",
+    "Id_user": "U222",
+    "Nama_produk": "Boneka Bayi Bulu Halus",
+    "Nama_umkm": "SoftBaby",
+    "Kategori_produk": "Mainan",
+    "Harga": 75000,
+    "Bahan_baku": "Bulu Halus, Katun"
+  },
+  {
+    "Id_produk": "P083",
+    "Id_user": "U333",
+    "Nama_produk": "Serum Wajah Anti-Penuaan",
+    "Nama_umkm": "Ageless Beauty",
+    "Kategori_produk": "Kecantikan",
+    "Harga": 120000,
+    "Bahan_baku": "Asam Hialuronat, Peptida"
+  },
+  {
+    "Id_produk": "P084",
+    "Id_user": "U454",
+    "Nama_produk": "Jeans Denim Classic",
+    "Nama_umkm": "Denim Deluxe",
+    "Kategori_produk": "Fashion",
+    "Harga": 280000,
+    "Bahan_baku": "Denim, Benang"
+  },
+  {
+    "Id_produk": "P085",
+    "Id_user": "U565",
+    "Nama_produk": "Minuman Energi",
+    "Nama_umkm": "Energy Boost",
+    "Kategori_produk": "Minuman",
+    "Harga": 35000,
+    "Bahan_baku": "Gula, Kafein, Vitamin B"
+  },
+  {
+    "Id_produk": "P086",
+    "Id_user": "U676",
+    "Nama_produk": "Alat Pijat Shiatsu",
+    "Nama_umkm": "Shiatsu Serenity",
+    "Kategori_produk": "Kesehatan",
+    "Harga": 150000,
+    "Bahan_baku": "Plastik, Komponen Elektronik"
+  },
+  {
+    "Id_produk": "P087",
+    "Id_user": "U787",
+    "Nama_produk": "Kanvas Lukisan Abstract",
+    "Nama_umkm": "Abstract Artistry",
+    "Kategori_produk": "Seni",
+    "Harga": 120000,
+    "Bahan_baku": "Kanvas, Cat Akrilik"
+  },
+  {
+    "Id_produk": "P088",
+    "Id_user": "U898",
+    "Nama_produk": "Topi Trucker Logo Vintage",
+    "Nama_umkm": "RetroHeadwear",
+    "Kategori_produk": "Fashion",
+    "Harga": 45000,
+    "Bahan_baku": "Kain, Logam, Plastik"
+  },
+  {
+    "Id_produk": "P089",
+    "Id_user": "U909",
+    "Nama_produk": "Smoothie Buah Naga",
+    "Nama_umkm": "Dragon Delight",
+    "Kategori_produk": "Minuman",
+    "Harga": 55000,
+    "Bahan_baku": "Buah Naga, Pisang, Air"
+  },
+  {
+    "Id_produk": "P090",
+    "Id_user": "U010",
+    "Nama_produk": "Papan Tulis Magnet",
+    "Nama_umkm": "Magnetic Boards",
+    "Kategori_produk": "Perlengkapan Kantor",
+    "Harga": 85000,
+    "Bahan_baku": "Kayu, Magnet, Cat Papan Tulis"
+  },
+  {
+    "Id_produk": "P091",
+    "Id_user": "U111",
+    "Nama_produk": "Pisau Dapur Set Stainless",
+    "Nama_umkm": "KitchenCraft",
+    "Kategori_produk": "Alat Masak",
+    "Harga": 120000,
+    "Bahan_baku": "Baja Stainless, Kayu"
+  },
+  {
+    "Id_produk": "P092",
+    "Id_user": "U222",
+    "Nama_produk": "Boneka Teddy Bear XL",
+    "Nama_umkm": "TeddyTreasures",
+    "Kategori_produk": "Mainan",
+    "Harga": 95000,
+    "Bahan_baku": "Bulu Sintetis, Kapas"
+  },
+  {
+    "Id_produk": "P093",
+    "Id_user": "U333",
+    "Nama_produk": "Masker Wajah Brightening",
+    "Nama_umkm": "GlowingSkin",
+    "Kategori_produk": "Kecantikan",
+    "Harga": 55000,
+    "Bahan_baku": "Gliserin, Ekstrak Pepaya"
+  },
+  {
+    "Id_produk": "P094",
+    "Id_user": "U454",
+    "Nama_produk": "Celana Jogger Casual",
+    "Nama_umkm": "CasualComfort",
+    "Kategori_produk": "Fashion",
+    "Harga": 180000,
+    "Bahan_baku": "Katun, Elastane"
+  },
+  {
+    "Id_produk": "P095",
+    "Id_user": "U565",
+    "Nama_produk": "Sari Buah Apel Segar",
+    "Nama_umkm": "FreshApple Squeeze",
+    "Kategori_produk": "Minuman",
+    "Harga": 30000,
+    "Bahan_baku": "Apel, Air, Gula"
+  },
+  {
+    "Id_produk": "P096",
+    "Id_user": "U676",
+    "Nama_produk": "Alat Pijat Reflexology",
+    "Nama_umkm": "ReflexoRelax",
+    "Kategori_produk": "Kesehatan",
+    "Harga": 120000,
+    "Bahan_baku": "Plastik, Logam"
+  },
+  {
+    "Id_produk": "P097",
+    "Id_user": "U787",
+    "Nama_produk": "Vas Bunga Keramik",
+    "Nama_umkm": "CeramicBlooms",
+    "Kategori_produk": "Dekorasi",
+    "Harga": 85000,
+    "Bahan_baku": "Tanah Liat, Glazur"
+  },
+  {
+    "Id_produk": "P098",
+    "Id_user": "U898",
+    "Nama_produk": "Topi Fedora Classic",
+    "Nama_umkm": "ClassicHats",
+    "Kategori_produk": "Fashion",
+    "Harga": 55000,
+    "Bahan_baku": "Serat Alami, Plastik"
+  },
+  {
+    "Id_produk": "P099",
+    "Id_user": "U909",
+    "Nama_produk": "Jus Markisa Segar",
+    "Nama_umkm": "PassionSplash",
+    "Kategori_produk": "Minuman",
+    "Harga": 45000,
+    "Bahan_baku": "Markisa, Air, Gula"
+  },
+  {
+    "Id_produk": "P100",
+    "Id_user": "U010",
+    "Nama_produk": "Penghapus Whiteboard",
+    "Nama_umkm": "BoardEraser",
+    "Kategori_produk": "Perlengkapan Kantor",
+    "Harga": 15000,
+    "Bahan_baku": "Karet, Plastik"
+  },
+  {
+    "Id_produk": "P101",
+    "Id_user": "U111",
+    "Nama_produk": "Tabung Gas Portable",
+    "Nama_umkm": "GasGo",
+    "Kategori_produk": "Alat Rumah Tangga",
+    "Harga": 75000,
+    "Bahan_baku": "Baja, Plastik"
+  },
+  {
+    "Id_produk": "P102",
+    "Id_user": "U222",
+    "Nama_produk": "Mainan Puzzle Edukatif",
+    "Nama_umkm": "EduPuzzles",
+    "Kategori_produk": "Mainan",
+    "Harga": 45000,
+    "Bahan_baku": "Kayu, Cat Aman untuk Anak"
+  },
+  {
+    "Id_produk": "P103",
+    "Id_user": "U333",
+    "Nama_produk": "Krim Malam Anti-Aging",
+    "Nama_umkm": "Youthful Glow",
+    "Kategori_produk": "Kecantikan",
+    "Harga": 120000,
+    "Bahan_baku": "Retinol, Kolagen"
+  },
+  {
+    "Id_produk": "P104",
+    "Id_user": "U454",
+    "Nama_produk": "Kemeja Flanel Casual",
+    "Nama_umkm": "FlannelFusion",
+    "Kategori_produk": "Fashion",
+    "Harga": 150000,
+    "Bahan_baku": "Katun, Flanel"
+  },
+  {
+    "Id_produk": "P105",
+    "Id_user": "U565",
+    "Nama_produk": "Smoothie Berry",
+    "Nama_umkm": "BerryBlend",
+    "Kategori_produk": "Minuman",
+    "Harga": 35000,
+    "Bahan_baku": "Buah Berry, Yoghurt, Gula"
+  },
+  {
+    "Id_produk": "P106",
+    "Id_user": "U676",
+    "Nama_produk": "Alat Pijat Gantung",
+    "Nama_umkm": "HangingRelax",
+    "Kategori_produk": "Kesehatan",
+    "Harga": 180000,
+    "Bahan_baku": "Kain, Busa, Logam"
+  },
+  {
+    "Id_produk": "P107",
+    "Id_user": "U787",
+    "Nama_produk": "Poster Seni Abstrak",
+    "Nama_umkm": "AbstractArts",
+    "Kategori_produk": "Dekorasi",
+    "Harga": 55000,
+    "Bahan_baku": "Kertas Berkualitas Tinggi, Tinta"
+  },
+  {
+    "Id_produk": "P108",
+    "Id_user": "U898",
+    "Nama_produk": "Topi Fedora Vintage",
+    "Nama_umkm": "VintageStyles",
+    "Kategori_produk": "Fashion",
+    "Harga": 65000,
+    "Bahan_baku": "Serat Alami, Plastik"
+  },
+  {
+    "Id_produk": "P109",
+    "Id_user": "U909",
+    "Nama_produk": "Es Teh Lemon",
+    "Nama_umkm": "LemonChill",
+    "Kategori_produk": "Minuman",
+    "Harga": 25000,
+    "Bahan_baku": "Teh Hitam, Lemon, Es"
+  },
+  {
+    "Id_produk": "P110",
+    "Id_user": "U010",
+    "Nama_produk": "Penghapus Pensil",
+    "Nama_umkm": "EraserEase",
+    "Kategori_produk": "Perlengkapan Kantor",
+    "Harga": 5000,
+    "Bahan_baku": "Karet, Plastik"
+  },
+  {
+    "Id_produk": "P111",
+    "Id_user": "U111",
+    "Nama_produk": "Healthy Skin's Jamu",
+    "Nama_umkm": "Homa Herbs",
+    "Kategori_produk": "Minuman",
+    "Harga": 10000,
+    "Bahan_baku": "Apple, Turmeric, Black Papper, Ginger, Madu"
+  },
+  {
+    "Id_produk": "P112",
+    "Id_user": "U222",
+    "Nama_produk": "Body Detox's Jamu",
+    "Nama_umkm": "Homa Herbs",
+    "Kategori_produk": "Minuman",
+    "Harga": 10000,
+    "Bahan_baku": "Ginger, Pineapple, Mint, Lemon"
+  },
+  {
+    "Id_produk": "P113",
+    "Id_user": "U333",
+    "Nama_produk": "Boost Energy's Jamu",
+    "Nama_umkm": "Homa Herbs",
+    "Kategori_produk": "Minuman",
+    "Harga": 10000,
+    "Bahan_baku": "Bit, Orange, Ginger"
+  }
+]
